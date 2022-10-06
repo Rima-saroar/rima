@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 90%;
+  
+overflow: hidden;
+margin: auto;
+
+}
+
+.logo{
+    width: 20%;
+    float: left;
+   margin-left: 85px;
+   color: #000000;
+   margin-top: 30px;
+
+   
+}
+
+.logo img{
+    float: left;
+    font-size: 20px;
+
+}
+
+.menu{
+
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.menu ul{
+list-style: none;
+float: right;
+}
+
+.menu ul li{
+    margin-left: 30px;
+    float: left;
+    margin-top: 30px;
+
+}
+.menu ul li a{
+color: #626262;
+    text-decoration: none;
+font-size: 20px;
+text-transform: uppercase;
+
+
+}
+
+
+.banner-image{
+width: 90%;
+margin: auto;
+overflow: hidden;
+}
+
+.banner-image img{
+width: 100%;
+margin-bottom: 70px;
+}
+
+
+
+.content{
+
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+.content h5{
+color: #b4ad9e;
+font-size: 15px;
+margin: 70px auto;
+text-transform: uppercase;
+margin-bottom: 30px;
+
+
+}
+.content h1{
+
+color: #626262;
+text-transform: capitalize;
+margin-bottom: 30px;
+
+
+}
+
+
+.content p{
+color: #626262;
+font-size: 17px;
+margin-bottom: 30px;
+}
+
+.content a{
+font-size: 15px;
+text-transform: uppercase;
+color: #b4ad9e;
+text-decoration: none;
+  }
+
+.img{
+width: 80%;
+overflow: hidden;
+margin: auto;
+margin-top: 80px;
+margin: 50px auto;
+}
+
+.left-image img{
+width: 40%;
+float: left;
+margin-bottom: 20px;
+
+}
+
+.right-image img{
+    width: 40%;
+    float: right;
+    margin-bottom: 20px;
+    }
+
+
+
+.text{
+    width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+
+.left{
+    width: 40%;
+  float: left;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.left h5{
+color:#b4ad9e;
+margin-bottom: 20px;
+
+
+
+}
+
+.left h1{
+color:#626262;
+margin-bottom: 20px;
+}
+
+.left p{
+color: #626262;
+font-size: 15px;
+margin-bottom: 50px;
+}
+
+
+.right{
+    width: 40%;
+float: right;
+font-size: 20px;
+}
+
+
+.right h5{
+    color:#b4ad9e ;
+    margin-bottom: 20px;
+
+}
+
+.right h1{
+    color:#626262;
+    margin-bottom: 20px;
+    
+}
+
+.right p{
+    color: #626262; 
+
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.picture{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.rima img{
+width: 40%;
+float: left;
+margin-bottom: 30px;
+}
+
+.suhi img{
+width: 40%;
+float: right;
+margin-bottom: 30px;
+}
+
+
+
+.text-2{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+
+.text1{
+    float: left;
+    width: 40%;
+  
+}
+
+.text1 h5{
+    color:#b4ad9e ;
+text-transform: uppercase;
+    margin-bottom: 30px;
+    }
+
+
+
+.text1 h1{
+color: #626262;
+margin-bottom: 30px;
+font-size: 30px;
+}
+
+.text1 p{
+color:#626262;
+font-size: 15px;
+}
+
+
+.text2{
+    float:right;
+    width: 40%;
+}
+
+
+.text2 h5{
+text-transform: uppercase;
+    color:#b4ad9e ;
+    margin-bottom: 30px;
+}
+
+
+.text2 h1{
+    color: #626262;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+
+.text2 p{
+font-size: 15px;
+    color:#626262;
+}
+
+
+/* .new{
+
+}
+
+
+ h1{
+
+  font-size: 50px;  
+  text-transform: capitalize;
+  text-align: center;
+} */
